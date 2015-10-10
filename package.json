@@ -1,0 +1,22 @@
+{
+  "name": "duri",
+  "version": "1.0.0",
+  "description": "convert files into data-uri scheme",
+  "homepage": "https://github.com/marcusandre/data-uri",
+  "license": "MIT",
+  "author": "Marcus André <hello@marcusandre.de>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/marcusandre/data-uri.git"
+  },
+  "keywords": [
+    "data",
+    "uri",
+    "scheme",
+    "bash",
+    "cli"
+  ],
+  "bin": {
+    "duri": "bin/data-uri"
+  }
+}
