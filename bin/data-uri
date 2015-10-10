@@ -18,7 +18,7 @@ set -e
 #
 
 function usage() {
-  echo "Usage: datauri /path/to/image.png | pbcopy"
+  echo "Usage: datauri -f /path/to/image.png | pbcopy"
 }
 
 #

@@ -25,6 +25,12 @@ $ echo "<img src=\"$(datauri -f /path/to/image.png)\">" > image_tag.html
 $ datauri -f /path/to/image.png | pbcopy
 ```
 
+## Tests
+
+```sh
+$ make test
+```
+
 ## License
 
 [MIT][MIT-License]
