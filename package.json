@@ -1,6 +1,6 @@
 {
   "name": "duri",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert files into data-uri scheme",
   "homepage": "https://github.com/marcusandre/data-uri",
   "license": "MIT",

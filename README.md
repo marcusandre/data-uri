@@ -20,9 +20,9 @@ $ duri -f hello.png
 ## Usage
 
 ```sh
-$ datauri /path/to/image.png > image.datauri
-$ echo "<img src=\"$(datauri /path/to/image.png)\">" > image_tag.html
-$ datauri /path/to/image.png | pbcopy
+$ datauri -f /path/to/image.png > image.datauri
+$ echo "<img src=\"$(datauri -f /path/to/image.png)\">" > image_tag.html
+$ datauri -f /path/to/image.png | pbcopy
 ```
 
 ## License
